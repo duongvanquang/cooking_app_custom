@@ -1,0 +1,17 @@
+{
+    "bottom_bar": {
+        "potential": "KHTN",
+        "target": "Chỉ tiêu",
+        "plan": "Lịch hoạt động"
+      },
+      "home_page":{
+        "title_appbar":"Dương Văn Quang",
+        "title_small":"Narsingdi",
+        "title_food1":"Cơm Chiên Dương Châu",
+        "title_icon1":"Normal",
+        "title_icon2":"1.7km",
+        "title_icon3":"32min",
+        "popular_text":"Popular",
+        "food_pairing_text":"Food pairing"
+      }
+}
